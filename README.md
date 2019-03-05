@@ -1,6 +1,9 @@
 # Authentication
 A smart decentralized authentication system on Ethereum 
 
+## Prerequistes
+- Open Zeppelin `npm install openzeppelin-solidity --save`
+
 # Testing Commands 
 - Compile:              truffle compile
 - Migrate:              truffle migrate
